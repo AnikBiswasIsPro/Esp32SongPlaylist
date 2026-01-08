@@ -2,24 +2,27 @@
   "playlist": [
     {
       "title": "AL NACER! (Slowed)",
-      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/AL NACER! (Slowed).mp3"
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/AL%20NACER%21%20%28Slowed%29.mp3"
     },
     {
       "title": "FUNK SIGILO (Slowed)",
-      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/FUNK SIGILO (Slowed)-.mp3"
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/FUNK%20SIGILO%20%28Slowed%29-.mp3"
     },
-        {
+    {
       "title": "VOCE NA MIRA",
-      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/HWUNGII - VOCE NA MIRA - Universal Sound Studio.mp3"
-    },    {
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/HWUNGII%20-%20VOCE%20NA%20MIRA%20-%20Universal%20Sound%20Studio.mp3"
+    },
+    {
       "title": "MONTAGEM BATCHI (Slowed)",
-      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/MXZI, Rushex - MONTAGEM BATCHI (Slowed).mp3"
-    },    {
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/MXZI%2C%20Rushex%20-%20MONTAGEM%20BATCHI%20%28Slowed%29.mp3"
+    },
+    {
       "title": "VELVETAL (SLOWED)",
-      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/Phonkha x TREVØLX - VELVETAL (SLOWED) - Phonkha.mp3"
-    },    {
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/Phonkha%20x%20TREV%C3%96LX%20-%20VELVETAL%20%28SLOWED%29%20-%20Phonkha.mp3"
+    },
+    {
       "title": "SEMPERO (SLOWED)",
-      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/SEMPERO (SLOWED) - Qmiir - hour loop.mp3"
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/SEMPERO%20%28SLOWED%29%20-%20Qmiir%20-%20hour%20loop.mp3"
     }
   ]
 }
