@@ -1,0 +1,25 @@
+{
+  "playlist": [
+    {
+      "title": "Song 1",
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/AL NACER! (Slowed).mp3"
+    },
+    {
+      "title": "Song 2",
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/FUNK SIGILO (Slowed)-.mp3"
+    },
+        {
+      "title": "Song 2",
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/HWUNGII - VOCE NA MIRA - Universal Sound Studio.mp3"
+    },    {
+      "title": "Song 2",
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/MXZI, Rushex - MONTAGEM BATCHI (Slowed).mp3"
+    },    {
+      "title": "Song 2",
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/Phonkha x TREVØLX - VELVETAL (SLOWED) - Phonkha.mp3"
+    },    {
+      "title": "Song 2",
+      "url": "https://AnikBiswasIsPro.github.io/Esp32SongPlaylist/SEMPERO (SLOWED) - Qmiir - hour loop.mp3"
+    }
+  ]
+}
